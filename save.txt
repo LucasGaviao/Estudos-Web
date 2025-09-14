@@ -1,0 +1,14 @@
+/* .light-mode:root{
+    --margemPadrao: 10rem;
+    --backgroundColor: #dcecf1;
+    --text: #212121;
+    --primary01: #015a84;
+    --primary02: #015d87;
+    --secondary01: #104277;
+    --secondary02: #d4e6f1;
+    --accent03: #2d5697 ; 
+    --accent04: #e67845 ; 
+    --accent05: #f0eeea ;
+    --photogradient: radial-gradient(circle at center, var(--secondary01),var(--backgroundColor));
+    --nikitirunColor:  #c0e1f4;
+  } */
